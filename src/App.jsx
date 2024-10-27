@@ -1,5 +1,6 @@
 
 import './App.css'
+import Blog from './components/blog/Blog'
 import Header from './components/header/Header'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     <>
       
       <Header></Header>
+      <Blog></Blog>
      
     </>
   )
